@@ -84,4 +84,7 @@ if __name__ == "__main__":
         if not stat:
             download_status.append("Fail")
         else:
-            download_status.append("Success")
+            download_status.append(filename)
+    df['logo_wiki_page'] = logo_wiki_page
+    df['logo_src'] = logo_src
+    df['svg_file_path'] = download_status
