@@ -65,6 +65,9 @@ if __name__ == "__main__":
         if not os.path.exists(path):
             os.makedirs(path)
         filename = path + "/" + keyname +".svg"
+        if os.path.exists(filename):
+            download_status.append(filename)
+            continue
         page_url = getWikiUrl(key)
         if not page_url:
             logo_wiki_page.append("Missing")
@@ -85,7 +88,7 @@ if __name__ == "__main__":
             download_status.append("Fail")
         else:
             download_status.append(filename)
-    df['logo_wiki_page'] = logo_wiki_page
-    df['logo_src'] = logo_src
+    # df['logo_wiki_page'] = logo_wiki_page
+    # df['logo_src'] = logo_src
     df['svg_file_path'] = download_status
     df.to_csv("processed_U.csv", index=False)

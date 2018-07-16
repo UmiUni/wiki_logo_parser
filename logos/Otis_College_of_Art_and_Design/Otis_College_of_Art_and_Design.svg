@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="235pt"
+   height="96pt"
+   viewBox="0 0 235 96"
+   version="1.1"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Otis logo.SVG"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 60 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="293.75 : 60 : 1"
+       inkscape:persp3d-origin="146.875 : 40 : 1"
+       id="perspective21" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="667"
+     inkscape:window-width="660"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="1.8519149"
+     inkscape:cx="76.461397"
+     inkscape:cy="68.126836"
+     inkscape:window-x="66"
+     inkscape:window-y="89"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 56.3125 13.75 C 53.890234 13.714844 51.45625 13.83125 49.0625 14.0625 C 36.7125 15.7 25.087499 23.1125 19.25 34.25 C 9.4625 52.7 12.39375 78.693748 29.21875 92.15625 C 38.45625 99.64375 50.931252 101.49375 62.46875 100.15625 C 72.59375 99.18125 82.212497 93.924997 88.5 85.9375 C 96.0125 76.65 98.650003 64.175 97.5625 52.4375 C 96.6 38.9625 89.475 25.33125 77.1875 18.96875 C 70.83125 15.3125 63.579297 13.855469 56.3125 13.75 z M 55.40625 33.90625 C 60.442876 33.85765 65.560937 36.171875 68.34375 40.4375 C 72.881248 46.987499 73.29375 55.49375 72.34375 63.15625 C 71.806248 68.331248 69.56875 73.3875 65.71875 76.9375 C 59.993752 81.974997 50.3625 81.7125 45.0625 76.125 C 38.837501 70.062503 38.4 60.59375 39.0625 52.46875 C 39.575 44.693748 43.86875 36.2875 51.96875 34.3125 C 53.09375 34.042969 54.243952 33.917465 55.40625 33.90625 z "
+     id="path6"
+     style="fill:#045a9d;fill-opacity:1"
+     transform="scale(0.8,0.8)" />
+  <path
+     fill="#045a9d"
+     d=" M 173.80 17.77 C 181.26 11.12 191.98 10.30 201.48 11.42 C 206.31 12.31 211.24 13.75 215.05 16.99 C 219.67 20.64 221.62 26.62 222.03 32.30 C 215.82 32.30 209.61 32.27 203.40 32.33 C 202.75 24.87 192.20 23.19 187.35 27.54 C 185.47 30.00 187.27 33.11 189.87 34.05 C 199.43 38.13 210.77 38.02 219.14 44.81 C 224.10 48.74 225.32 55.58 224.39 61.54 C 223.84 67.55 219.95 72.93 214.71 75.79 C 207.66 80.05 199.14 80.72 191.10 80.32 C 184.17 79.98 177.12 77.86 171.82 73.26 C 167.23 69.24 164.94 63.07 164.94 57.05 C 171.57 56.91 178.20 56.89 184.83 57.06 C 185.41 59.98 185.96 63.51 189.02 64.88 C 194.38 67.49 203.59 67.12 205.03 59.97 C 204.33 58.73 204.04 57.08 202.65 56.40 C 192.97 51.40 181.00 51.54 172.34 44.45 C 164.84 37.51 166.61 24.32 173.80 17.77 Z"
+     id="path8" />
+  <path
+     fill="#045a9d"
+     d=" M 78.19 12.62 C 97.43 12.53 116.67 12.57 135.92 12.60 C 135.86 18.13 135.90 23.66 135.89 29.19 C 129.63 29.21 123.38 29.07 117.13 29.27 C 116.84 45.86 117.27 62.47 116.91 79.05 C 110.28 78.99 103.66 79.14 97.04 78.95 C 96.83 62.38 97.06 45.80 96.92 29.22 C 90.69 29.14 84.45 29.18 78.21 29.19 C 78.32 23.67 78.32 18.14 78.19 12.62 Z"
+     id="path10" />
+  <path
+     fill="#045a9d"
+     d=" M 140.85 12.58 C 147.52 12.54 154.21 12.62 160.88 12.53 C 161.00 34.68 161.09 56.86 160.92 79.01 C 154.21 79.01 147.51 79.17 140.81 78.90 C 140.86 56.79 140.79 34.69 140.85 12.58 Z"
+     id="path12" />
+</svg>
