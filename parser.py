@@ -88,3 +88,4 @@ if __name__ == "__main__":
     df['logo_wiki_page'] = logo_wiki_page
     df['logo_src'] = logo_src
     df['svg_file_path'] = download_status
+    df.to_csv("processed_U.csv", index=False)
