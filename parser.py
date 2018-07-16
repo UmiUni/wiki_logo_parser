@@ -57,7 +57,7 @@ if __name__ == "__main__":
     logo_wiki_page = []
     logo_src = []
     download_status = []
-    for key in df['School Name'].tolist():
+    for key in df['Name'].tolist():
         print("=" * 50)
         print("Processing query for " + key)
         keyname = " ".join(re.findall("[a-zA-Z]+", key)).replace(" ", '_')
@@ -88,3 +88,4 @@ if __name__ == "__main__":
     df['logo_wiki_page'] = logo_wiki_page
     df['logo_src'] = logo_src
     df['svg_file_path'] = download_status
+    df.to_csv("download_status.csv")
